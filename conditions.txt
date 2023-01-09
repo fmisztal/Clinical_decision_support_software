@@ -1,0 +1,21 @@
+anemia;ma/RB/-1 ma/HG/-1 ma/HC/-1;https://pl.wikipedia.org/wiki/Niedokrwisto%C5%9B%C4%87
+białaczka;ma/LY/1 ma/MO/-1 ma/PLT/-1;https://pl.wikipedia.org/wiki/Bia%C5%82aczka
+choroba autoimmunologiczna;ma/RB/-1 ma/HG/-1 ma/HC/-1 ma/PL/-1;https://pl.wikipedia.org/wiki/Choroby_autoimmunologiczne
+choroba nerek;mk/mk/1 me/pH/-1 ma/RB/-1 ma/HG/-1 ma/HC/-1;https://pl.wikipedia.org/wiki/Przewlek%C5%82a_choroba_nerek
+choroba płuc;ma/RB/-1 ma/HG/-1 ma/HC/-1;https://pl.wikipedia.org/wiki/Choroby_uk%C5%82adu_oddechowego
+choroba trzustki;ma/LY/-1 ke/wl/1;https://pl.wikipedia.org/wiki/Ostre_zapalenie_trzustki
+choroba układu pokarmowego;ke/wl/1 ke/od/-1;https://pl.wikipedia.org/wiki/Zaka%C5%BCenia_przewodu_pokarmowego
+choroba wątroby;me/bi/1 mk/mk/-1 ma/LY/-1;https://pl.wikipedia.org/wiki/Wirusowe_zapalenie_w%C4%85troby
+choroba zakaźna;ma/LY/1 ma/MO/1;https://pl.wikipedia.org/wiki/Choroby_zaka%C5%BAne_(specjalizacja_lekarska)
+cukrzyca;me/gl/1 ma/LY/1;https://pl.wikipedia.org/wiki/Cukrzyca
+infekcja;ma/WB/-1 ma/LY/-1 ma/MO/-1;https://pl.wikipedia.org/wiki/Zaka%C5%BCenie_szpitalne
+nadczynność tarczycy;th/TS/1 ma/MV/-1;https://pl.wikipedia.org/wiki/Nadczynno%C5%9B%C4%87_tarczycy
+niedobór witaminy B12 i kwasu foliowego;ma/RB/-1 ma/HG/-1 ma/HC/-1 ma/MV/1 ma/MH/1;https://pl.wikipedia.org/wiki/Niedob%C3%B3r_witaminy_B12
+niedobór żelaza;ma/RB/-1 ma/HG/-1 ma/HC/-1 ma/MV/-1 ma/MH/-1 ma/MC/-1 ma/PL/1;https://pl.wikipedia.org/wiki/Niedob%C3%B3r_mikroelement%C3%B3w
+niedobór żółci;ke/tl/1 ke/od/1;https://pl.wikipedia.org/wiki/Cholestaza
+niedoczynność tarczycy;th/TS/-1 ma/MV/1;https://pl.wikipedia.org/wiki/Niedoczynno%C5%9B%C4%87_tarczycy
+niewydolność serca;me/bi/1 cl/ca/1 cl/LD/11 cl/TC/1;https://pl.wikipedia.org/wiki/Niewydolno%C5%9B%C4%87_serca
+nowotwór;ma/RB/1 ma/HG/-1 ma/HC/1 ma/WB/-1 ma/LY/-1 ma/PL/-1;https://pl.wikipedia.org/wiki/Nowotw%C3%B3r
+ryzyko chorób naczyniowych;cl/ca/1 cl/LD/1/ cl/HD/-1;https://pl.wikipedia.org/wiki/Czynniki_ryzyka_sercowo-naczyniowego
+talasemia;ma/MV/-1 ma/MC/-1;https://pl.wikipedia.org/wiki/Talasemia
+uszkodzenie szpiku kostnego;ma/RB/-1 ma/HG/-1 ma/HC/-1;https://pl.wikipedia.org/wiki/Zapalenie_ko%C5%9Bci_i_szpiku

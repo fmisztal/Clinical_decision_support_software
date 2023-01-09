@@ -1,0 +1,36 @@
+me:Mocz - badania ogólne:
+pH:pH:
+bo:Białko:mg/dl
+gl:Glukoza:mg/dl
+bi:Bilirubina:mg/dl
+gs:Glukoza w surowicy:mg/dl
+kr:Kreatynina w surowicy:mg/dl
+ob:Odczyn Biernackiego:mm/h
+GP:GPT/ALT:U/l
+GO:GOT/AST:U/l
+CP:CRP:mg/l
+ke:Kał - badania ogólne:
+od:Odczyn:
+tl:Tłuszcz:
+sk:Skrobia:
+wl:Włokna mięsne prążkowane:
+mk:Mocznik:mmol/l
+cl:Cholesterol:mg/dl
+ca:Cholesterol całkowity:mg/dl
+LD:LDL:mg/dl
+HD:HDL:mg/dl
+tr:Trójglicerydy:mg/dl
+TC:TC/HDL:
+ma:Morfologia:
+RB:RBC:M/ul
+HG:HGB:M/ul
+HC:HCT:%
+MV:MCV:fl
+MH:MCH:pg
+MC:MCHC:mmol/l
+WB:WBC:K/ul
+LY:LYM:%
+MO:MONO:G/l
+PL:PLT:K/ul
+th:TSH III gen.:
+TS:TSH:mU/l
